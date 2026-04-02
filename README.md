@@ -1,7 +1,7 @@
 # Digiwallet Growth Intelligence: User Retention & Churn Analysis
 
 ## Project Overview
-Data driven dignosis of a digital wallet company to better understand its leaky bucket scenario and recommend future steps for growth.
+Data driven diagnosis of a digital wallet company to better understand its leaky bucket scenario and recommend future steps for growth.
 
 ## Dashboard
 <img width="1363" height="768" alt="image" src="https://github.com/user-attachments/assets/671eecc8-3376-40bc-88a4-784273e828cb" />
